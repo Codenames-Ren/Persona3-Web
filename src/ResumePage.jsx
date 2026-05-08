@@ -416,9 +416,7 @@ export default function ResumePage({ src }) {
             <div className="resume-detail-bottom">
               <div className="resume-detail-bottom-title">DETAILS</div>
               <div className="resume-detail-bullets">
-                <div className="resume-detail-bullet">- Nacido para backend, forzado a frontend.</div>
-                <div className="resume-detail-bullet">- Enfoque actual: Python y C++ para proyectos y arquitectura backend.</div>
-                <div className="resume-detail-bullet">- Rust entra como objetivo a futuro en la ruta de aprendizaje.</div>
+                <div className="resume-detail-bullet">Focused on backend architecture and the logic behind the screen.</div>
               </div>
             </div>
           </div>
